@@ -6,8 +6,12 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-FF4B4B?logo=streamlit)](https://streamlit.io)
 
+ 
+ 
+ 
+ 
 
-[![Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=appveyor)](https://github.com/shivamsinghtomar78/Movies-Recommender/raw/main/asset/freecompress-Recording%202025-02-17%20224041.mp4)
+
 
 
 ## 🌟 Features
