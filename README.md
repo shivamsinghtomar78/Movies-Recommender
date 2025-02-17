@@ -5,9 +5,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-FF4B4B?logo=streamlit)](https://streamlit.io)
- 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-![Movie Matrix Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ1cXhqNDN4dWJ3ejB4Y2Rmb3J6aG0wZ2h5cWt4Z3F6dHd2cXJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif)
+
+[![Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=appveyor)](https://github.com/shivamsinghtomar78/Movies-Recommender/raw/main/asset/freecompress-Recording%202025-02-17%20224041.mp4)
+
 
 ## 🌟 Features
 
@@ -36,3 +38,10 @@ graph TD
     E --> F[Streamlit UI]
     F --> G[User Interaction]
     G --> H[Live Recommendations]
+```
+
+
+![image alt](https://github.com/shivamsinghtomar78/Movies-Recommender/blob/2eb7a9adfb6ff97dc14e21845fd3661885379b1f/asset/Screenshot%202025-02-17%20225739.png)
+![image alt](https://github.com/shivamsinghtomar78/Movies-Recommender/blob/2eb7a9adfb6ff97dc14e21845fd3661885379b1f/asset/Screenshot%202025-02-17%20225752.png)
+![image alt](https://github.com/shivamsinghtomar78/Movies-Recommender/blob/2eb7a9adfb6ff97dc14e21845fd3661885379b1f/asset/Screenshot%202025-02-17%20225808.png)
+![image alt](https://github.com/shivamsinghtomar78/Movies-Recommender/blob/2eb7a9adfb6ff97dc14e21845fd3661885379b1f/asset/Screenshot%202025-02-17%20225822.png)
