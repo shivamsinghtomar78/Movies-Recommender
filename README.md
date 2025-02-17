@@ -6,9 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-FF4B4B?logo=streamlit)](https://streamlit.io)
 
- 
- 
- 
+
+ https://github.com/user-attachments/assets/1c902aa0-c1b3-4713-9f09-0dbe56632385
  
 
 
